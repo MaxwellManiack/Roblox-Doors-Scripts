@@ -59,3 +59,79 @@
    
 </body>
 </html>
+
+</head>
+<body>
+    <div class="main">
+        <form action="">
+            <h1>Upio Seek Gun</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/main/seekgun.lua"))()
+  </form>    
+</body>
+</html>
+
+</head>
+<body>
+    <div class="main">
+        <form action="">
+            <h1>Upio Fortnite Rocket Launcher</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/main/rocketLauncher.lua"))()
+  </form>    
+</body>
+</html>
+
+ <div class="main">
+        <form action="">
+            <h1>Not riftable NVCS-3000 (Green Tablet)</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+Pastebin; 🡢 https://pastebin.com/raw/wXTF1xXC
+  </form>    
+</body>
+</html>
+
+ <div class="main">
+        <form action="">
+            <h1>Riftable NVCS-3000 (Green Tablet)</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+Link 🡢 https://scwz.me/mQA5lE
+  </form>    
+</body>
+</html>
