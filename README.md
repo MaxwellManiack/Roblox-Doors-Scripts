@@ -114,8 +114,11 @@
                 <i class='bx bxs-lock-alt'></i>
             </div>
 
-         
-Pastebin; 🡢 https://pastebin.com/raw/wXTF1xXC
+        _G.scanner_fps = 30
+        _G.disable_static = false
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/main/Scanner.lua"))() 
+
+
   </form>    
 </body>
 </html>
