@@ -27,6 +27,27 @@
 <body>
     <div class="main">
         <form action="">
+            <h1>Auto A-1000 [Auto A-Rooms]</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+Link for script; 🡢 https://linkvertise.com/1224434/3rd-checkpoint-for-script?o=sharing
+     
+  </form>    
+</body>
+</html>
+
+</head>
+<body>
+    <div class="main">
+        <form action="">
             <h1>Mspaint</h1>
             <div class="textbox">
                 <input type="text" placeholder="UserName" required>
@@ -59,6 +80,27 @@
 
   Link for script 🡢 https://scwz.me/6DCjlD
    
+</body>
+</html>
+
+</head>
+<body>
+    <div class="main">
+        <form action="">
+            <h1>Kiwi Bird 1,000,000 KNOBS MODIFIER [Custom Modifiers]</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+Link for script; 🡢 https://socialwolvez.com/app/l/ubXmbS
+     
+  </form>    
 </body>
 </html>
 
