@@ -2,6 +2,7 @@
 ### [Youtube] Maxwell Maniack [Pls Like and Sub] 🡢 https://www.youtube.com/@MaxwellManiack
 ### [Discord] Maxwell Maniack 🡢 https://discord.com/invite/u7PpXXVHsX
 #### Credits to Upio for most scripts 🡢 https://mspaint.upio.dev/
+#### Huge Credits to: Vynixu, Kiwi Bird, Penguin Maniack and Upio
 
 </head>
 <body>
@@ -22,6 +23,31 @@
   </form>    
 </body>
 </html>
+
+![image](https://github.com/user-attachments/assets/582dbcd9-a6dc-4994-948a-c43587b4f6d4)
+
+</head>
+<body>
+    <div class="main">
+        <form action="">
+            <h1>FFJ1 Hub Buster</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
+  </form>    
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/c39143b0-cd09-4bde-9753-c4066f7f756a)
 
 </head>
 <body>
@@ -44,6 +70,9 @@ Link for script; 🡢 https://linkvertise.com/1224434/3rd-checkpoint-for-script?
 </body>
 </html>
 
+![image](https://github.com/user-attachments/assets/e42afacd-e388-4690-b1e4-8902ca5e12e4)
+
+
 </head>
 <body>
     <div class="main">
@@ -63,6 +92,9 @@ Link for script; 🡢 https://linkvertise.com/1224434/3rd-checkpoint-for-script?
   </form>    
 </body>
 </html>
+
+![image](https://github.com/user-attachments/assets/1823a3a6-76e5-4db4-a5fc-2b9a1c1bc17c)
+
 
 </head>
 <body>
@@ -103,6 +135,8 @@ Link for script; 🡢 https://socialwolvez.com/app/l/ubXmbS
   </form>    
 </body>
 </html>
+
+![image](https://github.com/user-attachments/assets/10f4e8ea-99ee-4f87-82c0-20e23b0b72e5)
 
 </head>
 <body>
@@ -165,6 +199,8 @@ Link for script; 🡢 https://socialwolvez.com/app/l/ubXmbS
 </body>
 </html>
 
+![image](https://github.com/user-attachments/assets/8f411516-b918-4c68-9393-3de258786abb)
+
  <div class="main">
         <form action="">
             <h1>Riftable NVCS-3000 (Green Tablet)</h1>
@@ -182,6 +218,8 @@ Link 🡢 https://scwz.me/mQA5lE
   </form>    
 </body>
 </html>
+
+![image](https://github.com/user-attachments/assets/616982dd-b086-4f35-8ddc-f63d3358eb12)
 
 </head>
 <body>
@@ -240,8 +278,105 @@ Link; 🡢 https://socialwolvez.com/app/l/1VppYv
         loadstring(game:HttpGet('https://raw.githubusercontent.com/PenguinManiack/Crucifix/main/Crucifix.lua'))()
         end)
 
+</head>
+<body>
+    <div class="main">
+        <form action="">
+            <h1>Upio Inf Crucifix</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+     print("gae")
+        local lplr = game.Players.LocalPlayer
+        while true do
+            task.wait()
+            for e, shit in ipairs(workspace:GetDescendants()) do
+                if shit.Name == "RushNew" then
+                    local dist = (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - shit.CFrame.Position).magnitude
+                    print(dist)
+                    if dist <= 65 then
+                        task.spawn(function()
+                            lplr.Backpack.Crucifix.Parent = lplr.Character
+                        end)
+                        task.spawn(function()
+                            task.wait(0.05)
+                            local args = {
+                                [1] = game:GetService("Players").LocalPlayer.Character.Crucifix
+                            }
+    
+                            game:GetService("ReplicatedStorage"):WaitForChild("RemotesFolder"):WaitForChild("DropItem"):FireServer(unpack(args))
+                            task.wait(0.4)
+                            for e, shit in ipairs(workspace.Drops:GetDescendants()) do
+                                if shit:IsA("ProximityPrompt") then
+                                    if shit.ObjectText == "Crucifix" then
+                                        fireproximityprompt(shit)
+                                    end
+                                end
+                            end
+                        end)
+                        task.wait(0.2)
+                    end
+                end
+            end
+        end
+  </form>    
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/7efb6875-234b-4439-9d66-1c87bc42fc5f)
 
 </html>
   </form>    
 </body>
+</html>
+
+</head>
+<body>
+    <div class="main">
+        <form action="">
+            <h1>Spawn TrollFace</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Ginxys/Doors-Troll/main/Script.Lua"))()
+  </form>    
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/cce9632a-8c8e-46a1-8d9f-0dbd64a4cee8)
+
+</head>
+<body>
+    <div class="main">
+        <form action="">
+            <h1>Vynixu Entity Spawner</h1>
+            <div class="textbox">
+                <input type="text" placeholder="UserName" required>
+                <i class='bx bxs-user'></i>
+            </div>
+            <div class="textbox">
+                <input type="password" placeholder="Password" required>
+                <i class='bx bxs-lock-alt'></i>
+            </div>
+
+         
+Link for script; 🡢 https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Entity%20Spawner/V2/Example.lua
+  </form>    
+</body>
+
+![image](https://github.com/user-attachments/assets/fa0c8c64-341c-4635-9ee9-8b8c0aeeb21b)
+
 </html>
